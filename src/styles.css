@@ -1,0 +1,57 @@
+h1,
+h2,
+h3,
+h4 {
+  color: #000;
+  text-align: center;
+}
+
+h1 {
+  font-size: 45px;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-size: 12px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+h4 {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
+.form {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  text-align: center;
+}
+
+.sunrise-sunset {
+  list-style-type: none;
+  font-size: 12px;
+  font-family: monospace;
+  padding: 20px;
+  position: static;
+  text-align: center;
+}
+
+.five-day {
+  list-style-type: none;
+}
+
+.highs-lows {
+  list-style-type: none;
+}
+
+.strong {
+  font-family: "Dosis", sans-serif;
+}
