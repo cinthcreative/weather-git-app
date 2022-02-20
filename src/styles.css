@@ -39,7 +39,7 @@ ul {
 .sunrise-sunset {
   list-style-type: none;
   font-size: 12px;
-  font-family: monospace;
+  font-family: "Courier New", Courier, monospace;
   padding: 20px;
   position: static;
   text-align: center;
@@ -55,4 +55,8 @@ ul {
 
 .strong {
   font-family: "Dosis", sans-serif;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
 }
